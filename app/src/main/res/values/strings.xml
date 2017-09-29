@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chat_Task</string>
+    <string name="action_message">New Message</string>
+</resources>
